@@ -1,9 +1,18 @@
 import React from 'react';
+import Footer from '../Footer/Footer';
+import Search from '../Search/Search';
+import Banner from './Banner';
+import FeaturedDestination from './FeaturedDestination';
+import TopTour from './TopTour';
 
 const Home = () => {
     return (
         <div>
-            
+            <Banner></Banner>
+            <Search></Search>
+            <FeaturedDestination></FeaturedDestination>
+            <TopTour></TopTour>
+            <Footer></Footer>
         </div>
     );
 };
