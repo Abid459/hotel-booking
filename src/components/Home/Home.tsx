@@ -8,6 +8,7 @@ import TopTour from './TopTour';
 const Home = () => {
     return (
         <div>
+            
             <Banner></Banner>
             <Search></Search>
             <FeaturedDestination></FeaturedDestination>
