@@ -43,7 +43,7 @@ const Search = () => {
             <div className={`w-full h-screen bg-transparent fixed top-0 z-30 ${!isLayerVisible&&'hidden'}`} onClick={hideEveryThing}></div>
 
 
-            <div className="container">
+            <div className="container -mt-16">
                 <div className="card overflow-visible w-5/6 bg-base-100 shadow-xl mx-auto">
                     <div className="card-body">
 

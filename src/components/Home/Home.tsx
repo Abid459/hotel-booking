@@ -1,5 +1,6 @@
 import React from 'react';
 import Footer from '../Footer/Footer';
+import Header from '../Header/Header';
 import Search from '../Search/Search';
 import Banner from './Banner';
 import FeaturedDestination from './FeaturedDestination';
@@ -8,9 +9,9 @@ import TopTour from './TopTour';
 const Home = () => {
     return (
         <div>
-            
+            <Header></Header>
             <Banner></Banner>
-            <Search></Search>
+            <Search ></Search>
             <FeaturedDestination></FeaturedDestination>
             <TopTour></TopTour>
             <Footer></Footer>
