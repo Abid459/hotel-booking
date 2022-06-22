@@ -4,6 +4,7 @@ import Header from '../Header/Header';
 import Search from '../Search/Search';
 import Banner from './Banner';
 import FeaturedDestination from './FeaturedDestination/FeaturedDestination';
+import Subscribe from './Subscribe';
 // import FeaturedDestination from './FeaturedDestination';
 import TopTour from './TopTour/TopTour';
 
@@ -15,6 +16,7 @@ const Home = () => {
             <Search ></Search>
             <FeaturedDestination></FeaturedDestination>
             <TopTour></TopTour>
+            <Subscribe></Subscribe>
             <Footer></Footer>
         </div>
     );

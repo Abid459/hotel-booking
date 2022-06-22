@@ -18,10 +18,10 @@ interface tour {
 
 const TopTour = () => {
     let [count,setCount] = useState<any>(2)
+    const wrapper = useRef<any>()
     // const [stopInterval,setStopInterval] = useState(false)
     // const id = useRef<any>()
     // const distanceRef = useRef<any>(0)
-    const wrapper = useRef<any>()
     const [topTours, setTopTours] = useState<Array<tour>>([])
     useEffect(() => {
         fetch('./topTour.json')
