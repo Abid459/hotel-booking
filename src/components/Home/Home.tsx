@@ -3,8 +3,9 @@ import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import Search from '../Search/Search';
 import Banner from './Banner';
-import FeaturedDestination from './FeaturedDestination';
-import TopTour from './TopTour';
+import FeaturedDestination from './FeaturedDestination/FeaturedDestination';
+// import FeaturedDestination from './FeaturedDestination';
+import TopTour from './TopTour/TopTour';
 
 const Home = () => {
     return (

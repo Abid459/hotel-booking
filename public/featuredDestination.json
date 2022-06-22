@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "629984e63264b951c9652aad",
+      "index": 0,
+      "image": "./images/london.jpg",
+      "name": "London",
+      "activities": 89
+    },
+    {
+      "_id": "629984e6a29ac87ce7f3476e",
+      "index": 1,
+      "image": "./images/australia.jpg",
+      "name": "Australia",
+      "activities": 23
+    },
+    {
+      "_id": "629984e602926f1f8452d2ca",
+      "index": 2,
+      "image": "./images/japan.jpg",
+      "name": "Japan",
+      "activities": 60
+    },
+    {
+      "_id": "629984e65395feccc015837d",
+      "index": 3,
+      "image": "./images/paris.jpg",
+      "name": "Paris",
+      "activities": 84
+    },
+    {
+      "_id": "629984e6ec8351bf487ac190",
+      "index": 4,
+      "image": "./images/destination-2.jpg",
+      "name": "Sadie",
+      "activities": 99
+    },
+    {
+      "_id": "629984e6ae26252b4de39cab",
+      "index": 5,
+      "image": "./images/destination-3.jpg",
+      "name": "Charmaine",
+      "activities": 94
+    },
+    {
+      "_id": "629984e64a8f0e4bb3b11652",
+      "index": 6,
+      "image": "./images/destination-1.jpg",
+      "name": "Charity",
+      "activities": 81
+    },
+    {
+      "_id": "629984e65474d2959c444991",
+      "index": 7,
+      "image": "./images/destination-1.jpg",
+      "name": "Estrada",
+      "activities": 28
+    }
+  ]

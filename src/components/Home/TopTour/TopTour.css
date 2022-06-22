@@ -1,0 +1,22 @@
+.wrapper::-webkit-scrollbar { 
+       /* display: none; */
+       scroll-behavior: smooth
+    }
+    .w:hover{
+      /* overflow: scroll; */
+      /* animation-name: scroll; */
+      animation-duration: 4s;    
+      /* transform: translateX(-50%); */
+    }
+.wrapper{
+transition-duration: 5s;
+}
+.w{
+transition-duration: 5s;
+}
+    @keyframes scroll {
+      0%   {transform:translateX(-0%);}
+      25%  {transform:translateX(-25%);}
+      50%  {transform:translateX(-50%);}
+      100% {transform:translateX(-100%);}
+    }
